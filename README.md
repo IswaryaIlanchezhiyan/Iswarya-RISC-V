@@ -36,6 +36,26 @@ sudo make install
 
 ```
 
+Set Path variable in .bashrc using the following commands:
+
+```
+
+gedit .bashrc
+export PATH="/home/iswarya/riscv_toolchain/riscv64-unknown-elf-gcc-8.3.0-2019.08.0-x86_64-linux-ubuntu14/bin:$PATH" #Type at last line # close the bashrc and type
+source .bashrc
+
+```
+
+# Day 1
+
+# Introduction to RISC-V ISA and GNU Compiler ToolChain
+
+<details>
+ <summary>
+  
+ </summary>
+</details>
+
 
    
  </details>
