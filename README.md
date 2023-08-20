@@ -266,12 +266,30 @@ Range of 2's complement is – (2^(n-1) ) to + (2^(n-1) – 1).
 **Example**
 
 ![2's comp rep](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/7735bcbe-f35c-4d0b-b4e7-7f070a69f05b)
+</details>
+<details>
+ <summary>
+  Lab for Signed and Unsigned Numbers
+ </summary>
 
+ ![Datatypes](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/8196edc1-6a34-4bde-832c-f2fc17245de7)
 
+ **Code for Unsigned number**
+ 
+ ![unsigned c code](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/b068083a-ab9f-4a8b-a9ca-cd20a86b3e00)
 
+ **Output**
+ 
+![unsigned lab](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/34b4c11b-5eae-4320-8809-944473d1b217)
 
+ **Code for Unsigned number**
 
+![signed c code](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/55f529a6-292a-4f0c-87a2-3ec4e48df90a)
 
+ 
+ **Output**
+
+![signed lab](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/be071507-7a33-43d5-93e5-929d6fe38049)
 
 </details>
 
