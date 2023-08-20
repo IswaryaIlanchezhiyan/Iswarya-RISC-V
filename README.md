@@ -240,7 +240,7 @@ The signed numbers have a sign bit so that it can differentiate positive and neg
 
 + **1 as sign bit** ---> represents **negative** number
 
- An n-bit signed number represents all numbers in the range –(2^(n-1)-1) to + (2^(n-1)-1).
+ An n-bit signed number represents all numbers in the range – (2^(n-1)-1) to + (2^(n-1)-1).
 
  **Example**
 
@@ -251,7 +251,7 @@ The signed numbers have a sign bit so that it can differentiate positive and neg
 
 1’s complement of a binary number is another binary number obtained by toggling all bits in it, i.e., transforming the 0 bit to 1 and the 1 bit to 0.
 
-Range of 1's complement is - (2^(n-1) – 1) to + (2^(n -1) – 1).
+Range of 1's complement is   – (2^(n-1) – 1) to + (2^(n -1) – 1).
 
 **Example**
 
@@ -261,7 +261,7 @@ Range of 1's complement is - (2^(n-1) – 1) to + (2^(n -1) – 1).
 
 The 2’s complement of a binary number is obtained by adding one to the 1’s complement of signed binary number.
 
-RAnge of 2's complement is – (2^(n-1) ) to + (2^(n-1) – 1).
+Range of 2's complement is – (2^(n-1) ) to + (2^(n-1) – 1).
 
 **Example**
 
