@@ -205,14 +205,14 @@ The addi instruction performs an addition on both the source register's contents
 and stores the result in the destination register.
 
 ![addi](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/4953f1b3-8edb-4b3f-9a70-816e7b10b207)
-
-
-
-
-
-
 </details>
 
+<details>
+ <summary>
+  Number system for Unsigned and Signed numbers
+  
+ </summary>
+</details>
 
 
 
