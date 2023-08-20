@@ -220,6 +220,59 @@ and stores the result in the destination register.
  
  ![unsigned integer](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/034e9fde-f70e-4ecb-a980-8a2b7e6d1165)
 
+ **Bit**
+ 
+A binary digit (bit) is the minimum unit of binary information stored in a computer system. A bit can have only two states, on or off, which are commonly represented as ones and zeros. The combination of ones and zeros determines which information is entered into and processed by the computer.
+
+**Byte**
+
+A byte is a unit of data that is eight binary digits(8 bits) long. A byte is the unit most computers use to represent a character such as a letter, number or typographic symbol.
+
+**Word** -----> a word is 2 bytes (16 bits).
+
+**Double Word** -----> a single unit of data expressing two adjacent words (64 bits).
+
+**Signed Numbers**
+
+The signed numbers have a sign bit so that it can differentiate positive and negative integer numbers.The signed binary number technique has both the sign bit and the magnitude of the number.Sign bit is the Most Significant Bit(MSB).
+
++ **0 as sign bit** ---> represents **positive** number
+
++ **1 as sign bit** ---> represents **negative** number
+
+ An n-bit signed number represents all numbers in the range –(2^{n-1}-1) to (2)^{n-1}-1.
+
+ **Example**
+
+ + +108(10) = 01101100(2)
+ + −108(10) = 11101100(2)
+
+**1's Complement**
+
+1’s complement of a binary number is another binary number obtained by toggling all bits in it, i.e., transforming the 0 bit to 1 and the 1 bit to 0.
+
+Range of 1's complement is (2^(n-1) – 1) to + (2^(n -1) – 1).
+
+**Example**
+
+1's complement of "0111" is "1000"
+
+**2's Complement**
+
+The 2’s complement of a binary number is obtained by adding one to the 1’s complement of signed binary number.
+
+RAnge of 2's complement is – (2^(n)-1 ) to + (2^(n-1) – 1).
+
+**Example**
+
+![2's comp rep](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/7735bcbe-f35c-4d0b-b4e7-7f070a69f05b)
+
+
+
+
+
+
+
 </details>
 
 
