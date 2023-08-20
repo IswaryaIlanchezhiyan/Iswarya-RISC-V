@@ -166,7 +166,7 @@ riscv64-unknown-elf-objdump -d Sum1ton.o | less
 
 ```
 
-
+ ![Deassemble using Ofast](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/ba5824ea-e9b8-4430-801f-c5c43a54d3cd)
 
 
 **:q** -> for quit
@@ -182,5 +182,6 @@ riscv64-unknown-elf-objdump -d Sum1ton.o | less
 </details>
 
 
-   
+
+
 
