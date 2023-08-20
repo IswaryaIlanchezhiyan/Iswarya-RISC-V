@@ -302,6 +302,7 @@ Range of 2's complement is – (2^(n-1) ) to + (2^(n-1) – 1).
  </summary>
 
  An application binary interface (ABI) is an interface between two binary program modules. Often, one of these modules is a library or operating system facility, and the other is a program that is being run by a user. ABI defines how your code is stored inside the library file, so that any program using your library can locate the desired function and execute it.
+ 
 
 
 </details>
