@@ -124,7 +124,6 @@ Initially, we get specifications from ISA and write a HDL (Hardware Description 
 
  Leafpad is a simple GTK+ based text editor with user interface similar to Notepad.
  
-
  Install Leafpad using the commands
 
  ```
