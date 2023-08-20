@@ -1,7 +1,7 @@
 # RISC-V
 # Table of Contents
  - [Day0 - Installation](#Installation)<br>
- - [Day0 - Introduction to RISC-V ISA and GNU Compiler ToolChain](#Introduction-to-RISC-V-ISA-and-GNU-Compiler-ToolChain)<br>
+ - [Day1 - Introduction to RISC-V ISA and GNU Compiler ToolChain](#Introduction-to-RISC-V-ISA-and-GNU-Compiler-ToolChain)<br>
 
  # Day 0
 
@@ -210,8 +210,16 @@ and stores the result in the destination register.
 <details>
  <summary>
   Number system for Unsigned and Signed numbers
-  
- </summary>
+  </summary>
+
+ **Unsigned Numbers**
+
+ Unsigned Integers are just like integers (whole numbers) but have the property that they don't have a + or - sign associated with them. Thus they are always non-negative (zero or positive).
+
+ An n-bit unsigned number represents all numbers in the range 0 to (2^n − 1).
+ 
+ ![unsigned integer](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/034e9fde-f70e-4ecb-a980-8a2b7e6d1165)
+
 </details>
 
 
