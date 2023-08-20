@@ -146,23 +146,28 @@ leafpad sum1ton.c
 
 ![C program output](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/1308fb9e-56f8-48f9-a437-44b0b3b1d4ec)
 
-**Compiling the Code**
+**Compiling the Code and Deassemble using O1**
 
 ```
 
 riscv64-unknown-elf-gcc -O1 -mabi=lp64 -march=rv64i -o Sum1ton.o Sum1ton.c
-
-```
-
-**Deassemble**
-
-```
-
 riscv64-unknown-elf-objdump -d Sum1ton.o | less
 
 ```
 
-![Assembly level code](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/46f25c73-eb6f-4730-90ae-e32a9f58f991)
+![Deassemble using O1](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/9095cca6-6531-4c52-868f-50ccd55fe776)
+
+**Compiling the Code and Deassemble using Ofast**
+
+```
+
+riscv64-unknown-elf-gcc -Ofast -mabi=lp64 -march=rv64i -o Sum1ton.o Sum1ton.c
+riscv64-unknown-elf-objdump -d Sum1ton.o | less
+
+```
+
+
+
 
 **:q** -> for quit
 
