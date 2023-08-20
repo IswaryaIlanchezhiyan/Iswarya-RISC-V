@@ -310,6 +310,10 @@ Size of each Instruction set is 32 bit for risc64.
 ![ABI](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/02a5019d-ac56-42cc-9b81-243e2cd3524e)
 
 ![Registers name](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/b99ccf6a-28c3-4018-ad44-c455f533da45)
+
+**R-type** --->  instructions for register-register operations 
+**I-type** --->  instructions for immediate and load operations
+**S-type** --->  instructions for store operations 
 </details>
 
 <details>
