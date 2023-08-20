@@ -133,7 +133,7 @@ sudo apt-get -y install leafpad
 
 ```
 
-Write a C program which sum numbers from 1 to n:
+**Write a C program which sum numbers from 1 to n:**
 
 ```
 leafpad sum1ton.c
@@ -145,6 +145,28 @@ leafpad sum1ton.c
 **Output**
 
 ![C program output](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/1308fb9e-56f8-48f9-a437-44b0b3b1d4ec)
+
+**Compiling the Code**
+
+```
+
+riscv64-unknown-elf-gcc -O1 -mabi=lp64 -march=rv64i -o Sum1ton.o Sum1ton.c
+
+```
+
+**Deassemble**
+
+```
+
+riscv64-unknown-elf-objdump -d Sum1ton.o | less
+
+```
+
+![Assembly level code](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/46f25c73-eb6f-4730-90ae-e32a9f58f991)
+
+**:q** -> for quit
+
+
 
 
 
