@@ -45,6 +45,7 @@ export PATH="/home/iswarya/riscv_toolchain/riscv64-unknown-elf-gcc-8.3.0-2019.08
 source .bashrc
 
 ```
+</details>
 
 # Day 1
 
@@ -58,4 +59,4 @@ source .bashrc
 
 
    
- </details>
+
