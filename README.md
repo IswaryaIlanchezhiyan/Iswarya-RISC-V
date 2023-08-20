@@ -282,7 +282,7 @@ Range of 2's complement is – (2^(n-1) ) to + (2^(n-1) – 1).
  
 ![unsigned lab](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/34b4c11b-5eae-4320-8809-944473d1b217)
 
- **Code for Unsigned number**
+ **Code for Signed number**
 
 ![signed c code](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/55f529a6-292a-4f0c-87a2-3ec4e48df90a)
 
