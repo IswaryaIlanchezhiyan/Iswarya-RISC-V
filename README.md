@@ -303,15 +303,19 @@ Range of 2's complement is – (2^(n-1) ) to + (2^(n-1) – 1).
 
  An application binary interface (ABI) is an interface between two binary program modules. Often, one of these modules is a library or operating system facility, and the other is a program that is being run by a user. ABI defines how your code is stored inside the library file, so that any program using your library can locate the desired function and execute it.
 
- RISC-V belongs to little-endian memory addressing system.
-
-![ABI](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/ad2c46f2-f36a-4676-95af-6f67a87c646e)
+RISC-V belongs to little-endian memory addressing system.
 
 Size of each Instruction set is 32 bit for risc64.
- 
- 
 
+![ABI](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/02a5019d-ac56-42cc-9b81-243e2cd3524e)
 
+![Registers name](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/b99ccf6a-28c3-4018-ad44-c455f533da45)
+</details>
+
+<details>
+ <summary>
+   Lab using ABI function calls
+ </summary>
 </details>
 
 
