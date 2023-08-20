@@ -1,6 +1,7 @@
 # RISC-V
 # Table of Contents
  - [Day0 - Installation](#Installation)<br>
+ - [Day0 - Introduction to RISC-V ISA and GNU Compiler ToolChain](#Introduction to RISC-V ISA and GNU Compiler ToolChain)<br>
 
  # Day 0
 
