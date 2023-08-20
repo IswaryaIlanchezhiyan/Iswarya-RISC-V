@@ -166,6 +166,8 @@ riscv64-unknown-elf-objdump -d Sum1ton.o | less
 
 **:q** -> for quit
 
+**Spike Simulation and Debug**
+
 
 
 
