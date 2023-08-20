@@ -54,8 +54,17 @@ source .bashrc
 
 <details>
  <summary>
-  
+    Introduction to RISC-V basic keywords
  </summary>
+
+**RISC-V**
+
+ RISC-V (“risk-five”) is an instruction set architecture (ISA) rooted in reduced instruction set computer (RISC) principles. RISC-V is unique, even revolutionary, because it is a common, free, open-source ISA to which software can be ported, hardware can be developed, and processors can be built to support it.
+
+**ISA**
+
+An Instruction Set Architecture (ISA) is part of the abstract model of a computer that defines how the CPU is controlled by the software. The ISA acts as an interface between the hardware and the software, specifying both what the processor is capable of doing as well as how it gets done.The ISA provides the only way through which a user is able to interact with the hardware.
+ 
 </details>
 
 
