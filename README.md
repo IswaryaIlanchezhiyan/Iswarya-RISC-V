@@ -298,7 +298,7 @@ Range of 2's complement is – (2^(n-1) ) to + (2^(n-1) – 1).
 # Introduction to ABI and basic verification flow
 <details>
  <summary>
-  
+   Application Binary Interface
  </summary>
 </details>
 
