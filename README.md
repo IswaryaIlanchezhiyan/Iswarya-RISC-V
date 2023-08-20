@@ -173,6 +173,38 @@ riscv64-unknown-elf-objdump -d Sum1ton.o | less
 
 **Spike Simulation and Debug**
 
+Use this command to print output on the terminal
+
+```
+
+spike pk Sum1ton.o
+
+```
+
+**Debugging**
+
+```
+
+spike -d pk Sum1ton.o
+
+```
+
+**(spike) until pc 0 100b0** -----> makes the program counter to run from 0 to 100b0(memory address) after that we run manually to debug it.
+
+![debug](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/ba75d0ed-ef53-43f6-a792-8036559fe886)
+
+**lui**
+
+The load upper immediate instruction (lui) loads the highest 16 bits of a register with a constant, and clears the lowest 16 bits to 0s.
+
+![liu](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/e473bb02-53b6-470f-93ed-29fee69853aa)
+
+**addi**
+
+The addi instruction performs an addition on both the source register's contents and the immediate data,
+and stores the result in the destination register.
+
+![addi](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/4953f1b3-8edb-4b3f-9a70-816e7b10b207)
 
 
 
