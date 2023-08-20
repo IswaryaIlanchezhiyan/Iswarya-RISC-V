@@ -67,6 +67,19 @@ An Instruction Set Architecture (ISA) is part of the abstract model of a compute
  
 </details>
 
+<details>
+ <summary>
+  From Apps to Hardware
+ </summary>
+
+ **Diagrammatic Representation**
+
+![Diagrammatic Representation](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/74709c0b-40e5-4658-8f6d-66a625f9c601)
+
+
+ 
+</details>
+
 
    
 
