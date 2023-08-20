@@ -121,6 +121,35 @@ Initially, we get specifications from ISA and write a HDL (Hardware Description 
  <summary>
   Labwork for RISC-V software toolchain
  </summary>
+
+ Leafpad is a simple GTK+ based text editor with user interface similar to Notepad.
+
+ Install Leafpad using the commands
+
+ ```
+
+sudo apt-get update
+sudo apt-get -y install leafpad
+
+```
+
+Write a C program which sum numbers from 1 to n:
+
+```
+leafpad sum1ton.c
+
+```
+
+![Sum C program](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/6d1d01f9-97a5-499c-94c9-0e0a649ec8bb)
+
+**Output**
+
+![C program output](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/1308fb9e-56f8-48f9-a437-44b0b3b1d4ec)
+
+
+
+
+
 </details>
 
 
