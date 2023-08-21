@@ -393,7 +393,7 @@ Size of each Instruction set is 32 bit for risc64.
 
 **Verilog code for 2x1 MUX**
 
-![mux verilog code](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/d26679dd-3b37-4aea-9033-352dcde86b8f)
+![mux verilog code](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/cfdf840e-670e-4d3e-bc01-33dd8e950610)
 
 **Chaining Ternary Operator**
 
