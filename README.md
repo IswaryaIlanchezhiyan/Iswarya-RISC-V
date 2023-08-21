@@ -480,8 +480,11 @@ Sequential Logic is sequenced by a clock signal.
 Verilog provides 4 basic values,
 
 a) 0 — logic zero or false condition
+
 b) 1 — logic one, or true condition
+
 c) x — unknown/undefined logic value. Only for physical data types.
+
 d) z — high-impedance/floating state. Only for physical data types.
 
 Constants in Verilog are expressed in the following format:
@@ -499,6 +502,14 @@ hexadecimal.
 + 4b'1x0z // 4-bit binary. 2nd MSB is unknown. LSB is Hi-Z.
 + 3.14 // Floating point
 + 1.28e5 // Scientific notation
+
+**Sequential Logic Fibonacci Series**
+
+![lab fibonacci](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/081091bd-a11d-4076-9259-e982800f8fb2)
+
+**Sequential Logic Counter**
+
+![lab counter](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/871c0a4a-f704-43ad-97b4-1c2d062e75f2)
 
 </details>
 
