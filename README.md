@@ -322,6 +322,21 @@ Size of each Instruction set is 32 bit for risc64.
  <summary>
    Lab using ABI function calls
  </summary>
+
+**Code using ASM language**
+
+![1to9_custom code](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/8b9a19d4-9206-4e1e-882a-816be49ae863)
+
+![load S](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/cf98e90e-c1ea-4c21-9418-0e0455775f10)
+
+**Output**
+
+![1to9 out](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/a67b4473-300e-484d-bcc3-0b6021da9c60)
+
+
+
+
+ 
 </details>
 
 
