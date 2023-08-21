@@ -383,6 +383,41 @@ Size of each Instruction set is 32 bit for risc64.
 
  ![boolean](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/bfa6b17e-8380-4a43-9712-d8a4ac83af09)
 
+ **Multiplexer**
+ 
+ A MUX functions as a multiple-input, single-output switch that allows multiple analog and digital input signals and to be routed through a single output line. It is also called as Data Selector.
+
+ **2x1 MUX Representation**
+ 
+![mux](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/e05e3215-1a91-498d-9654-1b525da79d95)
+
+**Verilog code for 2x1 MUX**
+
+![mux verilog code](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/d26679dd-3b37-4aea-9033-352dcde86b8f)
+
+**Chaining Ternary Operator**
+
+![mux ternary ](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/7bac2096-cfa4-4f4d-8065-431154a24e82)
+
+**Makerchip**
+
+1.Go to makerchip.com
+
+2.Click LAUNCH MAKERCHIP IDE
+
+For example ,we choose fpga multiplier from tutorials examples
+**Code**
+
+![fpga mul code](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/4e28a5e4-2f87-4fa0-9c47-47bacf678774)
+
+**Diagram**
+
+![fpga mul diagram](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/41fc367e-5cf3-4012-9c5f-522eed500c37)
+
+**Waveform**
+
+![fpga mul waveform](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/4ba783b0-6b0e-464e-8f57-16c29c28252f)
+
 
 
  
