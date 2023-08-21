@@ -364,6 +364,28 @@ Size of each Instruction set is 32 bit for risc64.
  <summary>
   Combinational Logic
  </summary>
+ 
+ **Logic Gates**
+
+ A logic gate is a device that acts as a building block for digital circuits. They perform basic logical functions that are fundamental to digital circuits.
+
+![Logic gates ](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/ea6a7f57-9c77-4a90-9453-17e9a056ecce)
+
+**Combinational Circuits**
+
+ A combinational circuit is a circuit in which the output depends on the present combination of inputs. Combinational circuits are made up of logic gates.
+
+ ![comb circuits](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/01c154ad-1e6d-4edc-a06a-1470c3146cb0)
+
+ **Boolean Operators**
+
+ Boolean is a set of commands that can be used in almost every search engine, database, or online catalogue.  The most popular Boolean commands are AND, OR, and NOT. 
+
+ ![boolean](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/bfa6b17e-8380-4a43-9712-d8a4ac83af09)
+
+
+
+ 
 </details>
 
 
