@@ -337,11 +337,25 @@ Size of each Instruction set is 32 bit for risc64.
 **Output**
 
 ![1to9 out](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/a67b4473-300e-484d-bcc3-0b6021da9c60)
+</details>
 
+<details>
+ <summary>
+  Basic verification flow using iverilog
+ </summary>
 
+ ![RISC-V CPU iverilog](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/9b108c14-7a70-4af5-824b-d4f9080335ac)
 
-
+ **Code**
  
+![riscv cpu iverilog code](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/e6c6f6c6-25fa-4e5b-8cd2-5c85c518b059)
+
+**Contents of rm32im.sh**
+
+![riscv cpu commands](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/1e6d238c-ac38-40d5-9b56-881afe39704a)
+
+
+
 </details>
 
 
