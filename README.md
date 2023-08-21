@@ -458,12 +458,49 @@ For example ,we choose fpga multiplier from tutorials examples
 **Lab Combinational Calculator**
 
 ![lab comb calculator](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/28ebe75b-098c-4a3f-9d02-eccacb28996e)
+</details>
 
+<details>
+ <summary>
+  Sequential Logic
+ </summary>
 
+ **Sequential Circuits**
 
+ The sequential circuit is a special type of circuit that has a series of inputs and outputs. The outputs of the sequential circuits depend on both the combination of present inputs and previous outputs. The previous output is treated as the present state. So, the sequential circuit contains the combinational circuit and its memory storage elements. A sequential circuit doesn't need to always contain a combinational circuit. So, the sequential circuit can contain only the memory element.
 
+![sequential-circuits](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/4c507948-2983-4093-a28d-7520cca281ea)
 
- </details>
+Sequential Logic is sequenced by a clock signal.
+
+![clock](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/acf11022-e12c-49b9-8c4f-56cd41fe1681)
+
+**Values in Verilog**
+
+Verilog provides 4 basic values,
+
+a) 0 — logic zero or false condition
+b) 1 — logic one, or true condition
+c) x — unknown/undefined logic value. Only for physical data types.
+d) z — high-impedance/floating state. Only for physical data types.
+
+Constants in Verilog are expressed in the following format:
+
+1. width 'radix value
+2. width — Expressed in decimal integer. Optional, default is inferred from value.
+3. 'radix — Binary(b), octal(o), decimal(d), or hexadecimal(h). Optional, default is decimal.
+value — Any combination of the 4 basic values can be digits for radix octal, decimal or
+hexadecimal.
+
++ 4'b1011 // 4-bit binary of value 1011
++ 234 // 3-digit decimal of value 234
++ 2'h5a // 2-digit (8-bit) hexadecimal of value 5A
++ 3'o671 // 3-digit (9-bit) octal of value 671
++ 4b'1x0z // 4-bit binary. 2nd MSB is unknown. LSB is Hi-Z.
++ 3.14 // Floating point
++ 1.28e5 // Scientific notation
+
+</details>
 
 
 
