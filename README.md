@@ -3,6 +3,7 @@
  - [Day0 - Installation](#Installation)<br>
  - [Day1 - Introduction to RISC-V ISA and GNU Compiler ToolChain](#Introduction-to-RISC-V-ISA-and-GNU-Compiler-ToolChain)<br>
   - [Day2 - Introduction to ABI and basic verification flow](#Introduction-to-ABI-and-basic-verification-flow)<br>
+  - [Day3 - Digital logic with TL-Verilog and Makerchip](#Digital-logic-with-TL-Verilog-and-Makerchip)<br>
 
  # Day 0
 
@@ -353,9 +354,16 @@ Size of each Instruction set is 32 bit for risc64.
 **Contents of rm32im.sh**
 
 ![riscv cpu commands](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/1e6d238c-ac38-40d5-9b56-881afe39704a)
+</details>
 
+# Day 3
 
+# Digital logic with TL-Verilog and Makerchip
 
+<details>
+ <summary>
+  Combinational Logic
+ </summary>
 </details>
 
 
