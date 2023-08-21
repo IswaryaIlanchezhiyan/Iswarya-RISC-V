@@ -422,10 +422,48 @@ For example ,we choose fpga multiplier from tutorials examples
 
 ![fpga mul waveform](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/4ba783b0-6b0e-464e-8f57-16c29c28252f)
 
+**Lab Makerchip Platform**
+
+![lab makerchip](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/df88c8de-3a3c-4cfd-8cdc-ddc8215d6119)
+
+**Lab Inverter**
+
+![lab inverter](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/7347f0ce-e5e4-4dc3-b339-4a63391f0eb3)
+
+**Lab And**
+
+![lab and](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/e8d3dca4-f83e-4f8e-8110-ac4ae237421a)
+
+**Lab Or**
+
+![lab or](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/830687b5-26df-43c2-8175-50943e0c3015)
+
+**Lab Xor**
+
+![lab xor](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/e04c82a2-98a7-4e62-80ef-ec9280af0c95)
+
+**Lab Vectors**
+
+![lab vectors](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/65abe500-9fd1-436b-9f4e-62962f0dc003)
+
+**Lab Mux**
+
+![lab mux](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/2f468d92-9c51-4614-9319-d6e500c4f1b0)
+
+**Lab Modified Mux**
+
+![lab mux vectors](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/d98dc25a-0f74-4a02-8a43-d9578a85f35c)
 
 
- 
-</details>
+**Lab Combinational Calculator**
+
+![lab comb calculator](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/28ebe75b-098c-4a3f-9d02-eccacb28996e)
+
+
+
+
+
+ </details>
 
 
 
