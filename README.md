@@ -853,7 +853,7 @@ Clock gating saves power by pruning the clock tree, at the cost of adding more l
 **Block Diagram for Waterfall Logic Diagram**
 
 ![waterfall logic dia](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/26d15b1c-89f3-490f-b5ee-fe737b93496f)
-
+ 
 **Block Diagram for Waterfall Diagram and Hazards**
 
  ![waterfall hazards](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/fa3a85c2-f42c-4ce9-85c1-75c7db68145b)
