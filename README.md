@@ -6,6 +6,8 @@
   - [Day3 - Digital logic with TL-Verilog and Makerchip](#Digital-logic-with-TL-Verilog-and-Makerchip)<br>
   - [Day4 - Basic RISC-V CPU micro-architecture](#Basic-RISC-V-CPU-micro-architecture)<br>
    - [Day5 - Complete pipelined RISC-V CPU micro-architecture](#Complete-pipelined-RISC-V-CPU-micro-architecture)<br>
+   - [References](#References)<br>
+     
 
  # Day 0
 
@@ -1205,5 +1207,11 @@ Clock gating saves power by pruning the clock tree, at the cost of adding more l
 ![complete risc-v cpu diagram](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/266c62d8-497e-4077-9b9a-36f77c31b26e)
 
 </details>
+
+# References
+
++ https://makerchip.com/sandbox/
++ https://github.com/stevehoover/RISC-V_MYTH_Workshop
++ https://github.com/RISCV-MYTH-WORKSHOP/RISC-V-CPU-Core-using-TL-Verilog
 
 
