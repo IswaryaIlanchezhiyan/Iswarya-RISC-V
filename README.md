@@ -607,7 +607,7 @@ In the above implementation, we can observe errors in the pipeline:
 
 <details>
  <summary>
-  Hierarchy
+  Validity
  </summary>
 </details>
 
