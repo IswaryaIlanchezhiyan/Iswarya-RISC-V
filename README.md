@@ -552,9 +552,20 @@ hexadecimal.
 
 ![pytha mc](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/6ba38bd4-4c90-46e4-812a-461ed0ad4ca0)
 
+**Retiming**
+
+Retiming is the technique of moving the structural location of latches or registers in a digital circuit to improve its performance, area, and/or power characteristics in such a way that preserves its functional behavior at its outputs.
+
+**Modified TL-Verilog code**
+
+![modified tl verilog](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/74b68fe4-bc3a-4cae-bae0-41b39d89d519)
+
+**Modified Timing Abstract**
+
+![modified timing abstract](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/192bf2aa-6925-4533-8d87-a4b83d8917fe)
+
 
 </details>
-
 
 
 
