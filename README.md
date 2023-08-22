@@ -706,8 +706,34 @@ Clock gating saves power by pruning the clock tree, at the cost of adding more l
  
  **Decode** --->  The fetched instruction is now decoded for conveying to execution.
 
+ **Lab for Program Counter**
+ 
+ **Block Diagram**
+
+ ![lab pc](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/cb322fe8-0f54-450f-a06b-adb909ec25b3)
+
+ **Makerchip Implementation**
+
+ ![lab pc output](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/86078564-3feb-40d6-bbab-61375a6cb18d)
+
+**Lab for Fetch**
+
+ **Block Diagram**
+
+![lab fetch1](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/fe08bcee-454d-4c8f-a1f3-7b9503c6f9db)
+
+ ![lab fetch 2](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/e16fcbb5-6df7-4a12-9700-268d21beee2e)
+
+**Makerchip Implementation**
+ 
+
+
+ 
+ 
+
  
 </details>
+
 
 
 
