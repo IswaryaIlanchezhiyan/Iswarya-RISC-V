@@ -576,6 +576,14 @@ The pipelining allows us run at high clock frequency ,so that we get high throug
 
 ![fib pipe](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/f160687c-97e2-4296-a499-2194fb60732b)
 
+**Lab:Pipeline**
+
+![lab pipeline](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/6d512315-979b-4aee-a153-a4197ba55565)
+
+In the above implementation, we can observe errors in the pipeline:
+
+![error dia](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/2a830e98-d927-48c3-8ed0-8a707011e6df)
+
 
 </details>
 
