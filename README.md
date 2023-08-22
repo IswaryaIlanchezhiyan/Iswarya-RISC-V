@@ -662,6 +662,27 @@ Clock gating saves power by pruning the clock tree, at the cost of adding more l
  <summary>
   Wrap Up
  </summary>
+
+ We are going to learn about **Hierarchy** using Conway's Game of Life.
+
+ **Lab: Conway's Game of Life**
+
+ ![conway game of life](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/d18bb902-6966-4f3f-b286-596d7beb16aa)
+
+ **Lab: Hierarchy**
+
+ ![hierarchy](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/b22cce0e-f610-4076-9f16-9f2c23bba39b)
+
+</details>
+
+# Day 4
+
+# Basic RISC-V CPU micro-architecture**
+
+<details>
+ <summary>
+  Introduction to simple RISC-V CPU micro architecture
+ </summary>
 </details>
 
 
