@@ -656,7 +656,12 @@ Clock gating saves power by pruning the clock tree, at the cost of adding more l
 
 ![svm output](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/4c8d3ffd-4897-4282-a02e-d35690a01eaf)
 
+</details>
 
+<details>
+ <summary>
+  Wrap Up
+ </summary>
 </details>
 
 
