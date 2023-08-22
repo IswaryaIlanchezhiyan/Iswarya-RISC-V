@@ -4,6 +4,7 @@
  - [Day1 - Introduction to RISC-V ISA and GNU Compiler ToolChain](#Introduction-to-RISC-V-ISA-and-GNU-Compiler-ToolChain)<br>
   - [Day2 - Introduction to ABI and basic verification flow](#Introduction-to-ABI-and-basic-verification-flow)<br>
   - [Day3 - Digital logic with TL-Verilog and Makerchip](#Digital-logic-with-TL-Verilog-and-Makerchip)<br>
+  - [Day4 - Basic RISC-V CPU micro-architecture](#Basic-RISC-V-CPU-micro-architecture)<br>
 
  # Day 0
 
