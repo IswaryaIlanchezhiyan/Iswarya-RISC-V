@@ -802,8 +802,7 @@ Clock gating saves power by pruning the clock tree, at the cost of adding more l
 
 **Makerchip Implementation**
 
-![lab ALU output](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/df370ff9-f3ba-4624-8931-2f8057a7d693)
-
+![lab aluoutput](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/d5cf78f7-403d-4ab2-a6f5-385270f28018)
 
 **Lab for Register File Write**
 
