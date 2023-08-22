@@ -513,6 +513,48 @@ hexadecimal.
 
 </details>
 
+<details>
+ <summary>
+  Pipelined Logic
+ </summary>
+
+ Pipelining is the process of storing and prioritizing computer instructions that the processor executes. The pipeline is a "logical pipeline" that lets the processor perform an instruction in multiple steps. The processing happens in a continuous, orderly, somewhat overlapped manner.
+
+ Let's compute using pythagoras theorem.
+
+ ![Pythagoras dia](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/6df41352-1097-4f77-b25c-b72555ffcda3)
+
+ **Diagrammatic representation of hardware**
+
+ ![pythagoras hardware structure](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/15deba0a-91d3-4f6d-8f5f-aa5ad0989cd9)
+
+ **RTL**
+
+ ![RTL](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/2a66c3e4-b850-4693-b989-9f8cce6933e4)
+
+ **Timing Abstract**
+
+ ![Timing Abstract](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/60db3c21-6af5-490e-a02f-60484e4df412)
+
+ + Stage 1: Square the inputs a and b.
+ + Stage 2: Add the squared inputs
+ + Stage 3: Take squareroot of the determined output.
+
+**TL-Verilog code**
+
+![pyth tl verilog](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/29dec9c6-e423-4a0a-95c1-70e2e828abab)
+
+**System Verilog code**
+
+![system verilog](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/d0d6b857-be3c-494e-9cc8-9b4f3f88fa9d)
+
+**Diagram and Waveform on Makerchip**
+
+![pytha mc](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/6ba38bd4-4c90-46e4-812a-461ed0ad4ca0)
+
+
+</details>
+
 
 
 
