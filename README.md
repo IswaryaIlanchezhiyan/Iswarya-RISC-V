@@ -603,9 +603,12 @@ In the above implementation, we can observe errors in the pipeline:
 **Output**
 
 ![cycle cal output](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/1ad68ba3-c5ff-4625-8d6c-4561396a2cb6)
+</details>
 
-
-
+<details>
+ <summary>
+  Hierarchy
+ </summary>
 </details>
 
 
