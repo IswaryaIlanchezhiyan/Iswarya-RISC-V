@@ -584,6 +584,27 @@ In the above implementation, we can observe errors in the pipeline:
 
 ![error dia](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/2a830e98-d927-48c3-8ed0-8a707011e6df)
 
+**Lab:Counter and Calculator**
+
+**Block Diagram:**
+
+![counter   calculator](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/164950b0-7c75-42d5-9e83-0eab925eebf8)
+
+**Output**
+
+![counter   calc output](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/495bb758-f318-4ac5-8630-ca10ce3d1e95)
+
+**Lab:Cycle Calculator**
+
+**Block Diagram:**
+
+![cycle calc](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/ab1a8ed5-5860-4324-ad16-3f3a448106ad)
+
+**Output**
+
+![cycle cal output](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/1ad68ba3-c5ff-4625-8d6c-4561396a2cb6)
+
+
 
 </details>
 
