@@ -564,6 +564,18 @@ Retiming is the technique of moving the structural location of latches or regist
 
 ![modified timing abstract](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/192bf2aa-6925-4533-8d87-a4b83d8917fe)
 
+The pipelining allows us run at high clock frequency ,so that we get high throughput for our circuit.
+
+![high clk freq](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/7898090c-c741-4f82-8a72-d5bf0d5f07f6)
+
+**Identifiers and its types**
+
+![Identifiers](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/b979b608-ae26-4b1d-8686-cff160fdfe80)
+
+**Implementation of Fibonacci using Pipeline**
+
+![fib pipe](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/f160687c-97e2-4296-a499-2194fb60732b)
+
 
 </details>
 
