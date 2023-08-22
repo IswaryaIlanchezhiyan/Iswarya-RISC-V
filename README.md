@@ -609,6 +609,24 @@ In the above implementation, we can observe errors in the pipeline:
  <summary>
   Validity
  </summary>
+
+ Validity provides:
+ + Easier debug
+ + Cleaner design
+ + Better error checking
+ + Automated clock gating
+
+**Pythagoras theorem with validity**
+
+![pytha validity](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/30b42516-d923-43ef-a9ee-1533b83b6fad)
+
+**Clock Gating**
+
+Clock gating saves power by pruning the clock tree, at the cost of adding more logic to a circuit.
+
+![clock gating](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/b14cd3c7-a576-481e-a83a-c89a97b9e014)
+
+
 </details>
 
 
