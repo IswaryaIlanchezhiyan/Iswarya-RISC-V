@@ -857,6 +857,10 @@ Clock gating saves power by pruning the clock tree, at the cost of adding more l
 
  ![waterfall hazards](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/fa3a85c2-f42c-4ce9-85c1-75c7db68145b)
 
+**Makerchip Implementation of 3-cycle valid signal**
+
+![cycle valid inst](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/9a40c822-dbc5-403f-aafc-d9f0092c4fe9)
+
 </details>
 
 
