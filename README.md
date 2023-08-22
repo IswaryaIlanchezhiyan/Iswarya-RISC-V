@@ -697,5 +697,17 @@ Clock gating saves power by pruning the clock tree, at the cost of adding more l
 
 </details>
 
+<details>
+ <summary>
+  Fetch and Decode
+ </summary>
+
+ **Fetch** ---> involves receiving the instruction from memory. 
+ 
+ **Decode** --->  The fetched instruction is now decoded for conveying to execution.
+
+ 
+</details>
+
 
 
