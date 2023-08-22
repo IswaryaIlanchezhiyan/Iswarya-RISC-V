@@ -626,6 +626,36 @@ Clock gating saves power by pruning the clock tree, at the cost of adding more l
 
 ![clock gating](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/b14cd3c7-a576-481e-a83a-c89a97b9e014)
 
+**Lab for Distance Accumulator**
+
+**Block Diagram**
+
+![total distance dia](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/477e3501-f851-4003-8f2b-08127e571075)
+
+**Output**
+
+![dis acc output](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/728fcc32-01fd-4e74-8aef-42ec8e99daa5)
+
+**Lab for Cycle Calculator with validity**
+
+**Block Diagram**
+
+![cycle calc val dia](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/0fc26fba-b7a3-4403-b906-1f1195c9babd)
+
+**Output**
+
+![cycle calc output](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/44ac666d-2b5c-4460-be9d-c72302df1085)
+
+**Lab for Calculator with Single Value Memory**
+
+**Block Diagram**
+
+![svm dia](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/caadc36c-9b9b-4864-9e77-7efc491135fd)
+
+**Output**
+
+![svm output](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/4c8d3ffd-4897-4282-a02e-d35690a01eaf)
+
 
 </details>
 
