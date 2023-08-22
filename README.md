@@ -728,8 +728,44 @@ Clock gating saves power by pruning the clock tree, at the cost of adding more l
  
 ![lab fetch output](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/d0975b79-531d-4efa-88f7-b8e8f411ca30)
 
+**Lab for Decode Logic**
 
- 
+ **Block Diagram**
+
+![lab decode](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/471f9d82-f0c4-4219-8b3b-0eb9909061dd)
+
+**Makerchip Implementation**
+
+![lab decode output](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/fe0609b5-994c-405e-b48f-aa7f12276c43)
+
+**Lab for Immediate Decode Logic**
+
+![inst immediate decode](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/53d603c1-9567-4a00-bdfb-5a0440165592)
+
+**Makerchip Implementation**
+
+**Lab for Instruction Decode(part1)**
+
+![inst decode](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/b0768f80-cc8f-46a7-a1db-bdc09b9638e9)
+
+**Makerchip Implementation**
+
+
+
+**Lab to decode other field of instructions**
+
+ ![inst field decode](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/49a5cef8-4502-496d-a35d-eebe0a69ebf7)
+
+**Makerchip Implementation**
+
+**Lab for Instruction Decode(part2)**
+
+![inst decode 2](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/bfcb8842-0312-4060-a98f-7372b8091fde)
+
+**Makerchip Implementation**
+
+
+
 </details>
 
 
