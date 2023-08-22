@@ -512,6 +512,10 @@ hexadecimal.
 
 ![lab counter](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/871c0a4a-f704-43ad-97b4-1c2d062e75f2)
 
+**Sequential Logic Calculator**
+
+![sequential calc output](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/e9bb969f-af23-40f7-b06a-7a821ce697fc)
+
 </details>
 
 <details>
@@ -744,13 +748,15 @@ Clock gating saves power by pruning the clock tree, at the cost of adding more l
 
 **Makerchip Implementation**
 
+![imme decode output](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/5864d71d-13db-4a18-af87-f0b2c3272cce)
+
 **Lab for Instruction Decode(part1)**
 
 ![inst decode](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/b0768f80-cc8f-46a7-a1db-bdc09b9638e9)
 
 **Makerchip Implementation**
 
-
+![inst decode 1 output](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/6519e0b3-32a7-4309-aa8c-4854e8708a0e)
 
 **Lab to decode other field of instructions**
 
@@ -758,13 +764,73 @@ Clock gating saves power by pruning the clock tree, at the cost of adding more l
 
 **Makerchip Implementation**
 
+![inst field decode output](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/97014a10-5b12-4f97-8cf3-ed892745b150)
+
 **Lab for Instruction Decode(part2)**
 
 ![inst decode 2](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/bfcb8842-0312-4060-a98f-7372b8091fde)
 
 **Makerchip Implementation**
 
+![inst decode 2 output](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/daf644ad-9a34-4cb6-b658-27c4dd1cfea1)
 
+
+</details>
+<details>
+ <summary>
+  RISC-V Control Logic
+ </summary>
+ 
+**Lab for Register File Read**
+ 
+![reg file read](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/06f98796-9193-4a85-9fd0-656ce75bdc33)
+
+![reg file read code](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/66ff2ca9-6aaa-4337-b3a5-61cd8294d6f6)
+
+![reg file read 2](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/0b623d7a-2e79-4c7c-bc25-a2baf3952dc6)
+
+**Makerchip Implementation**
+
+![reg file read output](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/2b74d618-e263-4478-bc20-5779b9062174)
+
+**Lab ALU**
+
+**Block Diagram**
+
+![lab ALU](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/a9e0852d-8a25-4b02-aada-fdab8c5d1ec0)
+
+**Makerchip Implementation**
+
+![lab ALU output](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/df370ff9-f3ba-4624-8931-2f8057a7d693)
+
+
+**Lab for Register File Write**
+
+![reg file write dia](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/75bef632-14bf-476e-9f52-8ec266923b82)
+
+![reg file write code](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/23e14ae9-d82b-44a7-8877-b26a71673b7a)
+
+**Makerchip Implementation**
+
+![reg file write output](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/6ff9de4c-91e4-48f7-ab30-460e32e66183)
+
+**Concept of Arrays and Register File Details**
+
+![arrays](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/b5900227-9afe-440a-bc97-5e3ec0d6f6e1)
+
+![reg file details ](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/e79644ee-226f-4622-bf83-2fa090ffd8eb)
+
+**Lab for Branches**
+
+![lab branches](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/974ce0dd-8b2d-4048-955b-b97e31cab78c)
+
+**Makerchip Implementation**
+
+![branches output](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/9dd67fa6-c9c3-45b0-8d4e-b70b22dd2892)
+
+**Lab for Testbench**
+
+![lab testbench](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/11a6ae93-0e2b-4b48-9a6a-459f88b2dd55)
 
 </details>
 
