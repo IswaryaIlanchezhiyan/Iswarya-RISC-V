@@ -678,7 +678,7 @@ Clock gating saves power by pruning the clock tree, at the cost of adding more l
 
 # Day 4
 
-# Basic RISC-V CPU micro-architecture**
+# Basic RISC-V CPU micro-architecture
 
 <details>
  <summary>
