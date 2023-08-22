@@ -863,5 +863,46 @@ Clock gating saves power by pruning the clock tree, at the cost of adding more l
 
 </details>
 
+<details>
+ <summary>
+  Solution to pipeline hazards
+ </summary>
+
+**Register File Bypass**
+
+ The ALU is able to bypass from any of these stages to dependent instructions in the Register Read stage.
+
+ ![reg file bypass](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/d4e566f1-3ae3-411c-b227-af1394463e63)
+
+**Makerchip Implementation**
+
+ ![REg File bypass output](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/6400a433-b797-4a56-8eab-da7400d11790)
+
+ **Branches**
+
+![cpu branch dia](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/c0a35833-884b-4238-af6f-a5789ab44d66)
+
+**Makerchip Implementation**
+
+![cpu branch output](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/5a5c20e9-a9d3-4960-99bd-85991553d30a)
+
+**Complete Instruction Decode**
+
+![complete inst decode](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/dbcdf17b-b151-4e0e-ab71-a0f01dabd119)
+
+**Makerchip Implementation**
+
+![complete inst decode output](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/654f73c8-3210-49ef-8cce-0e7195d3f5d0)
+
+**Complete ALU**
+
+![complete alu](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/f3f6f7bd-a9b6-461e-8a4b-65b2978f8cef)
+
+**Makerchip Implementation**
+
+![complete alu output](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/b3df3b04-6269-44b7-b207-edc59b9c8313)
+
+</details>
+
 
 
