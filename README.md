@@ -684,6 +684,17 @@ Clock gating saves power by pruning the clock tree, at the cost of adding more l
  <summary>
   Introduction to simple RISC-V CPU micro architecture
  </summary>
+
+**RISC-V Block Diagram**
+ 
+![risc-v block diagram](https://github.com/IswaryaIlanchezhiyan/Iswarya-RISC-V/assets/140998760/086f5383-bcae-42a7-adde-a06705666230)
+
++ **Program Counter** --->A program counter is a register in a computer processor that contains the address (location) of the instruction being executed at the current time. As each instruction gets fetched, the program counter increases its stored value by 1.
+
++ **Instruction Memory** --->The instruction is read from part of memory; load and store instructions then read or write data from another part of memory.
+
++ **Register File** --->A register file is an array of processor registers in a central processing unit (CPU).
+
 </details>
 
 
